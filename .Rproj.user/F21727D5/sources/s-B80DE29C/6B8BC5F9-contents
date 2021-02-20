@@ -8,8 +8,8 @@ enableEmoji: yes
 math: no
 googleAnalytics: ''
 params:
-  author: Olivier Roques
-  description: A simple monospaced resume theme for Hugo.
+  author: Oleg Gurshev
+  description: Personal page of Oleg
   favicon: favicon.ico
   footer:
   logo: ''
