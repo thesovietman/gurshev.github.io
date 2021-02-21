@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Main page on Oleg Gurshev</title>
+    <title>Oleg Gurshev</title>
     <link>https://gurshev.netlify.app/</link>
-    <description>Recent content in Main page on Oleg Gurshev</description>
+    <description>Recent content on Oleg Gurshev</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://gurshev.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>

@@ -1,5 +1,5 @@
 ---
-Title: Main page
+Title: Oleg Gurshev
 ---
 
 ## Research interests
