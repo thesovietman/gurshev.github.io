@@ -4,11 +4,11 @@ title: About
 
 ## Research interests
 
-I'm interested in international economics and development. In particular, I am do research in the areas of FDI, trade and [post-Soviet economies](https://drive.google.com/file/d/1JU6RCb0M5msRrkVVu7YcgZQ0Y3gmtVAB/view)
+I'm interested in international economics and development. In particular, I do research in the areas of FDI, trade and [post-Soviet economies](https://drive.google.com/file/d/1JU6RCb0M5msRrkVVu7YcgZQ0Y3gmtVAB/view)
 
-Thesis topic: "Essays on trade and foreign direct investment"
+Thesis: "Essays on trade and foreign direct investment"
 
-Supervisor: prof. dr hab. Andrzej Cieslik
+Supervisor: prof. dr hab. Andrzej Cieślik
 
 ## Working papers
 
