@@ -23,9 +23,6 @@ permalinks:
   /: /:filename
 menu:
   main:
-    - name: About
-      url: /about
-      weight: 1
     - name: Vita
       pre: '<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-file-earmark-person-fill"
         fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd"
@@ -35,9 +32,6 @@ menu:
         1h8a1 1 0 0 0 1-1v-.245z"/></svg> '
       url: https://drive.google.com/file/d/1MiZiKCM45o7ml9kQ9w5_ckjoqYdby1mM/view
       weight: 2
-    - name: Contact
-      url: /contact
-      weight: 3
 markup:
   goldmark:
     renderer:

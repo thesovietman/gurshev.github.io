@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oleg Gurshev</title>
+    <title>Main page on Oleg Gurshev</title>
     <link>https://gurshev.netlify.app/</link>
-    <description>Recent content on Oleg Gurshev</description>
+    <description>Recent content in Main page on Oleg Gurshev</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://gurshev.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -34,18 +34,6 @@ Working papers  Factor endowments, economic integration, offshore centers, and i
       
       <guid>https://gurshev.netlify.app/contact/</guid>
       <description> Email: gurshev@uw.edu.pl   Social  Research Gate Google Scholar  </description>
-    </item>
-    
-    <item>
-      <title>Main page</title>
-      <link>https://gurshev.netlify.app/gurshev.netlify.app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gurshev.netlify.app/gurshev.netlify.app/</guid>
-      <description>Research interests I&amp;rsquo;m interested in international economics and development. In particular, I do research in the areas of FDI, trade and post-Soviet economies
-Thesis: &amp;ldquo;Essays on trade and foreign direct investment&amp;rdquo;
-Supervisor: prof. dr hab. Andrzej Cieślik
-Working papers  Factor endowments, economic integration, offshore centers, and inward FDI: evidence from the post-Soviet economies Determinants of foreign direct investment in Russia (with A. Cieślik) Determinants of British Outward Foreign Direct Investments into the European Union: The Bayesian Model Averaging Approach (with A.</description>
     </item>
     
   </channel>
